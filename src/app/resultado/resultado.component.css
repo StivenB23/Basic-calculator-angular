@@ -1,0 +1,14 @@
+.containerResult{
+    padding: 0px 10px;
+    overflow:hidden;
+}
+.containerResult h1{
+    font-size:58px;
+    font-weight:500;
+    color: rgb(255, 255, 255);
+}
+.resultNumber{
+    font-size:58px;
+    font-weight:500;
+    color: rgb(255, 255, 255);
+}
